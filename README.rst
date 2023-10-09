@@ -30,4 +30,4 @@ Documents
 
 -   `Cinema Site - Specification`_
 
-.. _Cinema Site - Specification: ./index.txt
+.. _Cinema Site - Specification: ./index.rst
