@@ -27,3 +27,7 @@ design before starting the implementation phase.
 
 Documents
 =========
+
+-   `Cinema Site - Specification`_
+
+.. _Cinema Site - Specification: ./index.txt
